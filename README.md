@@ -1,4 +1,4 @@
-# Python For Interviews
+# Python
 
 This repository contains structured Python practice programs including:
 
